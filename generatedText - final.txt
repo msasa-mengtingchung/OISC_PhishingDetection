@@ -1,5 +1,4 @@
-{
-  "emails": [
+{ "datasets" : [ { "datasets" : [
     {
       "subject": "Your account will be suspended if you don't verify your information",
       "body": "Dear Customer,\nWe have detected unusual activity on your account. To prevent any unauthorized access, we require you to verify your information by clicking on the link below.\n\nhttp://example.com/phishing/verify-account\nPlease verify your information as soon as possible.\nBest regards,\nJohn Smith\nBank of America"
@@ -47,16 +46,10 @@
     {
       "subject": "We need your help delivering aid to those affected by the conflict",
       "body": "Dear Donor,\nOur organization is working tirelessly to provide aid to those affected by the ongoing conflict. We require your assistance to ensure that our efforts are successful.\nPlease click on the link below to make a donation and help us deliver much-needed supplies.\n\nhttp://example.com/phishing/aid-delivery-verif\nYour generosity will bring hope to those in need.\nBest regards,\nKevin White\nHumanitarian Aid Foundation"
-    }
-  ]
-}
-,
-[
+    },
   {
     "subject": "Your Account Will Be Suspended If Not Verified Immediately",
-    "body": "Dear Customer, 
-We have noticed some suspicious activity on your account. To verify your information and keep your account safe, please click on the link below to update your details.
-http://example.com/verification-32c7d.php
+    "body": "Dear Customer, We have noticed some suspicious activity on your account. To verify your information and keep your account safe, please click on the link below to update your details.http://example.com/verification-32c7d.php
 Best Regards,
 Johnson Lee
 Bank of America"
@@ -66,9 +59,7 @@ Bank of America"
     "body": "Dear Valued Customer, 
 We are pleased to inform you that your financial transaction has been successfully processed. However, we need you to review and confirm the details by clicking on the link below.
 http://example.com/transation-4e56d.pdf
-Thank You,
-Rachel Brown
-Wells Fargo Bank"
+Thank You, Rachel Brown Wells Fargo Bank"
   },
   {
     "subject": "You Have Won the Lottery! Claim Your Prize Now",
@@ -108,58 +99,29 @@ Security Department"
   },
   {
     "subject": "You Are Eligible for a Tax Refund of $1000",
-    "body": "Dear taxpayer, 
-The government has processed your tax return and you are eligible for a refund of $1000. Please click on the link below to claim your refund.
-http://example.com/refund-98ad1.docx
-Best Wishes,
-Dawn Davis
-Tax Refund Services"
+    "body": "Dear taxpayer, The government has processed your tax return and you are eligible for a refund of $1000. Please click on the link below to claim your refund. http://example.com/refund-98ad1.docx Best Wishes, Dawn Davis Tax Refund Services"
   },
   {
     "subject": "You Have Been Selected for a Job Opportunity",
-    "body": "Dear Candidate, 
-We were impressed with your resume and would like to offer you a job opportunity. Please click on the link below to learn more about the position and apply.
-http://example.com/job-21df2.pdf
-Thank You,
-Karen Brown
-Hiring Manager"
+    "body": "Dear Candidate, We were impressed with your resume and would like to offer you a job opportunity. Please click on the link below to learn more about the position and apply. http://example.com/job-21df2.pdf Thank You, Karen Brown Hiring Manager"
   },
   {
     "subject": "You Have a Social Media Notification from Facebook",
-    "body": "Dear Customer, 
-Facebook has sent you a notification regarding your account activity. Please click on the link below to view and respond to the notification.
-http://example.com/facebook-14a3b.jpg
-Best Regards,
-Jessica Lee"
+    "body": "Dear Customer, Facebook has sent you a notification regarding your account activity. Please click on the link below to view and respond to the notification. http://example.com/facebook-14a3b.jpg Best Regards, Jessica Lee"
   },
   {
     "subject": "COVID-19 Vaccination Opportunity: Get Yours Now",
-    "body": "Dear Resident, 
-The government is offering free COVID-19 vaccinations at a location near you. Please click on the link below to schedule your appointment.
-http://example.com/covid-vaccine-6b95d.exe
-Thank You,
-Mark White
-Public Health Department"
+    "body": "Dear Resident, The government is offering free COVID-19 vaccinations at a location near you. Please click on the link below to schedule your appointment. http://example.com/covid-vaccine-6b95d.exe Thank You, Mark White Public Health Department"
   },
   {
     "subject": "Warning: Law Breaking Activity Detected on Your Device",
-    "body": "Dear User, 
-We have detected some law breaking activity on your device. Please click on the link below to report the issue and prevent any further problems.
-http://example.com/law-break-89e2c.zip
-Best Wishes,
-Paul Davis"
+    "body": "Dear User, We have detected some law breaking activity on your device. Please click on the link below to report the issue and prevent any further problems. http://example.com/law-break-89e2c.zip Best Wishes, Paul Davis"
   },
   {
     "subject": "War-Related Aid Has Been Disbursed in Your Name",
-    "body": "Dear Beneficiary, 
-A humanitarian organization has disbursed aid to support you during these difficult times. Please click on the link below to learn more about this assistance.
-http://example.com/aid-1c746.pdf
-Thank You,
-Kevin Brown"
+    "body": "Dear Beneficiary, A humanitarian organization has disbursed aid to support you during these difficult times. Please click on the link below to learn more about this assistance. http://example.com/aid-1c746.pdf Thank You, Kevin Brown"
   }
-]
 ,
-[
   {
     "subject": "URGENT: Your Account Will Be Suspended If Not Verified Now",
     "body": "Dear Customer, We have detected some suspicious activity on your account. Please click the link below to verify your information and avoid any inconvenience.\n\nhttps://fake-link.com/suspension-verification"
@@ -208,9 +170,7 @@ Kevin Brown"
     "subject": "Urgent Aid Request: Donate $1,000 Now",
     "body": "Dear Valued Customer, We are reaching out to you today to request urgent aid for those affected by the recent conflict. Please click the link below to donate $1,000.\n\nhttps://fake-link.com/aid-request"
   }
-]
 ,
-[
   {
     "subject": "Your Account Will Be Suspended if Not Verified IMMEDIATELY",
     "body": "Dear Customer,\n\nWe have noticed some suspicious activity on your account and require verification to ensure the security of your personal information. Please click on the link below to update your details.\n\nhttps://example.com/phishing-verification?kid=12345\n\nThank you for your prompt attention to this matter.",
@@ -271,8 +231,7 @@ Kevin Brown"
     "body": "Dear Donor,\n\nWe are reaching out to request emergency aid for those affected by the war. Please click on the link below to make a donation.\n\nhttps://example.com/phishing-aid?aidid=90123\n\nEvery little helps.",
     "topic": "War-Related Aid"
   }
-]
-,[
+,
   {
     "subject": "Urgent: Verify Your Account Information Today!",
     "body": "Dear Customer, We've noticed some suspicious activity on your account. Please click this link to verify your information and ensure secure access.",
@@ -333,7 +292,7 @@ Kevin Brown"
     "body": "Dear Supporter, We're organizing a relief effort for the affected areas of the war. Your donation will make a real difference in people's lives. Click this link to contribute.",
     "topic": "War-Related Aid"
   }
-]{"emails": [
+,
   {"subject": "Your Account Will Be Suspended If Not Verified Immediately", "body": "Dear Customer,\n\nWe have noticed some suspicious activity on your account.\nPlease click the link below to verify your information and avoid any inconvenience.\n\nhttps://example.com/verify-account\n\nBest regards, John Smith from BankOfAmerica"},
   {"subject": "Your Financial Transaction Has Been Approved", "body": "Dear Valued Customer,\n\nWe are pleased to inform you that your financial transaction has been successfully approved.\nTo view the details of your transaction, please click on this link:\n\nhttps://example.com/financial-transaction\n\nThank you for banking with us.\nBest regards, Jane Doe from WellsFargo"},
   {"subject": "You Have Won a Luxury Car in Our Annual Giveaway", "body": "Dear Lucky Winner,\n\nWe are thrilled to inform you that your name has been selected in our annual giveaway.\nPlease click the link below to claim your prize:\n\nhttps://example.com/luxury-car-giveaway\n\nCongratulations on your win!\nBest regards, Michael Brown from Porsche"},
@@ -346,7 +305,7 @@ Kevin Brown"
   {"subject": "COVID-19 Relief Fund: Donate Today", "body": "Dear Valued Donor,\n\nWe are pleased to inform you that we have set up a COVID-19 relief fund.\nPlease click the link below to donate today:\n\nhttps://example.com/covid-19-relief-fund-\u00d74147\n\nThank you for your generosity.\nBest regards, Julia Hall from RedCross"},
   {"subject": "Law Breaking Activity: Report Suspicious Activity", "body": "Dear Customer,\n\nWe have detected some suspicious activity on our system.\nPlease click the link below to report any law breaking activity:\n\nhttps://example.com/report-suspicious-activity-\u00d74133\n\nThank you for banking with us.\nBest regards, Alexander White from FBI"},
   {"subject": "War-Related Aid: Donate To Our Charity", "body": "Dear Valued Donor,\n\nWe are pleased to inform you that we have set up a war-related aid charity.\nPlease click the link below to donate today:\n\nhttps://example.com/war-related-aid-\u00d7414a\n\nThank you for your generosity.\nBest regards, Samantha Lee from RedCross"}
-]}[
+,
   {
     "subject": "URGENT: Your Account Will Be Suspended if Not Verified Within 24 Hours",
     "body": "Dear Customer,\n\nWe have detected unusual activity on your account and require you to verify your identity to avoid suspension.\n\nPlease click the link below to update your information:\n\nhttps://example.com/verify-account\n\nYour prompt attention to this matter is greatly appreciated.\n\nThank You,\nThe ABC Corporation"
@@ -395,8 +354,7 @@ Kevin Brown"
     "subject": "Urgent: Aids Package Has Been Sent to Your Address - Click Here to Claim Your Award",
     "body": "Dear Customer,\n\nWe are pleased to inform you that an aids package has been sent to your address. Please click the link below to claim your award:\n\nhttps://example.com/aid-claim\n\nCongratulations and thank you for receiving this generous support.\n\nBest Regards,The KLI Humanitarian Foundation"
   }
-],
-[
+,
   {
     "subject": "Urgent: Your Account Will be Suspended if Not Verified",
     "body": "Dear Customer,\n\nThis is a reminder that your account has been inactive for 30 days. To avoid any disruption in your services, please click on the link below to verify your account information.\n\nhttp://192.168.1.1/verify-account.php?uid=12345&token=abcde\n\nThank you for your prompt attention to this matter.",
@@ -457,9 +415,7 @@ Kevin Brown"
     "body": "Dear Donor,\n\nWe are writing to inform you that your donation to war-related aid may be ineligible due to certain restrictions. To find out more, please click on the link below.\n\nhttp://war-relief.com/donation-ineligibility.php?id=66666\n\nThank you for your understanding.",
     "topic": "War-Related Aid"
   }
-]
 ,
-[
   {
     "subject": "Your Account Will Be Suspended If You Don't Verify Now!",
     "body": "Dear Customer,\nYou have been selected to participate in our account verification process.\nPlease click on the link below to verify your information.\n\nhttps://example.com/verify-account\n\nSincerely,\nJohn Smith, Bank of America"
@@ -508,9 +464,7 @@ Kevin Brown"
     "subject": "Urgent: War-Related Aid Needed Now!",
     "body": "Dear Customer,\nWe are pleased to inform you that a war-related aid package is available.\nPlease click on the link below to view the details.\n\nhttps://example.com/aid-package\n\nSincerely,\nJames Wilson, Red Cross"
   }
-]
-,{"emails":
-    [
+,
         {"subject": "URGENT: Your Account Will Be Suspended If Not Verified", "body": "Dear Customer,\nYou have been selected for a secure account verification process. Please click on the link below to confirm your information.\n\nhttps://fake verification site.com/secure/verify-account", "topic": "Urgent Account Verification"},
         {"subject": "Final Notice: Your Financial Transaction Has Been Declined", "body": "Dear Valued Customer,\nWe have reviewed your recent financial transaction and regret to inform you that it has been declined due to insufficient funds. For further details, please click on the link below.\n\nhttps://fake payment site.com/decline/final-notice", "topic": "Financial Transaction"},
         {"subject": "Congratulations! You Have Won $10,000 in Our Latest Lottery Drawing", "body": "Dear Lucky Winner,\nWe are pleased to inform you that your name has been selected in our latest lottery drawing. Please click on the link below to claim your prize.\n\nhttps://fake lottery site.com/claim-prize/winning-number", "topic": "Prize or Lottery Winning"},
@@ -523,8 +477,7 @@ Kevin Brown"
         {"subject": "COVID-19 Update: Get Vaccinated Today!", "body": "Dear Resident,\nWe are writing to inform you that a COVID-19 vaccination center is located near you. Please click on the link below to get vaccinated today.\n\nhttps://fake vaccine site.com/covid/vaccination-center", "topic": "COVID-19 Related Scam"},
         {"subject": " Warning: Your IP Address Has Been Blacklisted!", "body": "Dear User,\nWe have detected that your IP address has been blacklisted. Please click on the link below to unblock your account.\n\nhttps://fake ip site.com/blacklist/unblock-account", "topic": "Law Breaking Activity"},
         {"subject": "Relief Efforts Underway: Donate Now!", "body": "Dear Donor,\nWe are writing to inform you that relief efforts are underway. Please click on the link below to donate now.\n\nhttps://fake relief site.com/donation/relief-efforts-underway", "topic": "War-Related Aid"}
-    ]
-}[
+,
   {
     "subject": "URGENT: Account Security Alert - Quick Action Required!",
     "body": "Dear Customer,\n\nYour account has been compromised due to a recent online activity. Please click on the link below to verify your details and secure your account.\n\nhttps://example.com/verifyaccount.html\n\nThank you for your prompt attention to this matter.\nBest regards,\nJohnson Smith"
@@ -577,56 +530,55 @@ Kevin Brown"
     "subject": "War-Related Aid Is Available For You",
     "body": "Dear Valued Donor,\n\nWe are writing to inform you that our organization is providing war-related aid to those in need. Please click on the link below to view the details of our aid program.\n\nhttps://example.com/warrelief.html\n\nThank you for your generosity.\nBest regards,\nDavid Lee"
   }
-]{
-  "email1": {
+,{
     "subject": "Account Verification - Urgent Action Required",
     "body": "Dear Customer, We have detected unusual activity on your account. Please click here to verify your information and avoid any potential security risks. [http://example.com/verify-account](http://example.com/verify-account)"
   },
-  "email2": {
+  {
     "subject": "Notification of Upcoming Payment",
     "body": "Dear Valued Customer, We are pleased to inform you that you are eligible for a payment of $1000. Please click here to proceed with the transaction and receive your funds immediately. [http://example.com/pay-now](http://example.com/pay-now)"
   },
-  "email3": {
+  {
     "subject": "Congratulations! You Won a Prize!",
     "body": "Dear Customer, We are thrilled to inform you that you have won a fantastic prize in our recent lottery drawing. Please click here to claim your reward and instructions on how to redeem it. [http://example.com/prize-winning](http://example.com/prize-winning)"
   },
-  "email4": {
+  {
     "subject": "Overdue Payment - Immediate Action Required",
     "body": "Dear Customer, Unfortunately, we have received a notice from our payment processor indicating that your account is overdue. Please click here to make the necessary payment and avoid any penalties. [http://example.com/pay-overdue](http://example.com/pay-overdue)"
   },
-  "email5": {
+  {
     "subject": "Donation Request - Support a Good Cause",
     "body": "Dear Customer, We are reaching out on behalf of our charity partner to request your support for a worthy cause. Please click here to make a donation and contribute to the betterment of society. [http://example.com/donate-now](http://example.com/donate-now)"
   },
-  "email6": {
+  {
     "subject": "Account Security - Update Your Password",
     "body": "Dear Customer, As part of our commitment to your security, we recommend that you update your password immediately. Please click here to generate a new password and ensure the safety of your account. [http://example.com/update-password](http://example.com/update-password)"
   },
-  "email7": {
+ {
     "subject": "Tax Refund - Claim Your Money Now",
     "body": "Dear Valued Customer, We are pleased to inform you that you are eligible for a tax refund of $500. Please click here to claim your refund and receive the payment into your account. [http://example.com/tax-refund](http://example.com/tax-refund)"
   },
-  "email8": {
+  {
     "subject": "Job Offer - Apply Now and Start Earning!",
     "body": "Dear Customer, We are pleased to offer you an exclusive job opportunity with a competitive salary. Please click here to apply now and start earning your new income source. [http://example.com/job-applicant](http://example.com/job-applicant)"
   },
-  "email9": {
+  {
     "subject": "Social Media Notification - Get Exclusive Offers",
     "body": "Dear Customer, We are excited to inform you that you have been selected for our social media program. Please click here to get exclusive offers and discounts on our products. [http://example.com/social-media-offer](http://example.com/social-media-offer)"
   },
-  "email10": {
+  {
     "subject": "COVID-19 - Get Medication via Download",
     "body": "Dear Customer, Due to the ongoing pandemic, we have developed a special medication that can help alleviate symptoms. Please click here to download the medication and receive instructions on how to use it. [http://example.com/covid-medicine](http://example.com/covid-medicine)"
   },
-  "email11": {
+  {
     "subject": "Law Breaking Activity - Report Suspicious Behavior",
     "body": "Dear Customer, We have detected some suspicious activity on your account. Please click here to report the incident and help us prevent potential harm. [http://example.com/report-suspicious](http://example.com/report-suspicious)"
   },
-  "email12": {
+ {
     "subject": "War-Related Aid - Donate Now",
     "body": "Dear Valued Customer, We are reaching out on behalf of our humanitarian partner to request your support for war-related aid. Please click here to make a donation and contribute to the relief efforts. [http://example.com/aid-donation](http://example.com/aid-donation)"
   }
-}[
+,
   {
     "subject": "Your Account Will Be Disabled If Not Verified Immediately",
     "body": "Dear Customer, We have detected some suspicious activity on your account. Please click on this link to verify your information and avoid any inconvenience. https://example.com/verify-account",
@@ -687,7 +639,7 @@ Kevin Brown"
     "body": "Dear Donor, We are pleased to inform you that you have been selected to receive a donation for your charity. Please find the details of the donation below: https://example.com/donation",
     "topic": "War-Related Aid"
   }
-],[
+,
   {
     "subject": " Urgent: Your Account Will Be Suspended If Not Verified Today",
     "body": "Dear Customer,\nWe have received a concern about your account security. To avoid any inconvenience, please click on the link below to verify your account information.\n\nhttp://example.com/verify-account.html\n\nThank you for your cooperation.\nBest Regards,\nJane Doe\nAccount Manager, Wells Fargo Bank",
@@ -21790,5 +21742,6 @@ Kevin Brown"
   },
   {
     "subject": "Your Payment Has Been Declined Due To Insufficient Funds. Click Here To Resolve The Issue.",
-    "body": "Dear Customer,\nWe regret to inform you that your payment has been declined due to insufficient funds. To resolve this issue, please click on the link below and provide us with your payment details.\n\nhttp://example.com/pay-transaction.html\n\nThank you for your prompt attention to this matter.\nSincerely,\nJohn Smith\nFinancial Services Representative, Bank of America",
-    "topic
+    "body": "Dear Customer,\nWe regret to inform you that your payment has been declined due to insufficient funds. To resolve this issue, please click on the link below and provide us with your payment details.\n\nhttp://example.com/pay-transaction.html\n\nThank you for your prompt attention to this matter.\nSincerely,\nJohn Smith\nFinancial Services Representative, Bank of America"}
+]
+}]}
