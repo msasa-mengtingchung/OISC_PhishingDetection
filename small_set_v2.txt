@@ -1,0 +1,100 @@
+[
+  {
+    "subject": "URGENT: Your Account Will Be Suspended If Not Verified Immediately",
+    "body": "Dear Customer,\n\nThis is a reminder that your account has been inactive for several weeks. To avoid any issues, please click on the link below to verify your information.\n\nhttps://example.com/verify-account\n\nBest regards,\nJohn Smith\nBank of America"
+  },
+  {
+    "subject": "Your Financial Transaction Has Been Approved!",
+    "body": "Dear Customer,\n\nWe are pleased to inform you that your recent financial transaction has been approved. Please click on the link below to access your account details.\n\nhttps://example.com/finance-transaction\n\nBest regards,\nJane Doe\nCapital Bank"
+  },
+  {
+    "subject": "You Won the Mega Millions Jackpot!",
+    "body": "Dear Customer,\n\nCongratulations! You have been selected as a winner in the mega millions jackpot drawing. Click on the link below to claim your prize.\n\nhttps://example.com/lottery-winning\n\nBest regards,\nMichael Brown\nPennywise Lottery"
+  },
+  {
+    "subject": "Your Invoice Is Due for Payment Today",
+    "body": "Dear Customer,\n\nThis is a friendly reminder that your invoice is due for payment today. Please click on the link below to make your payment online.\n\nhttps://example.com/pay-invoice\n\nBest regards,\nEmily Chen\nAccountPayWave"
+  },
+  {
+    "subject": "Support Your Favorite Charity!",
+    "body": "Dear Customer,\n\nWe are pleased to inform you that our organization has partnered with a reputable charity to support your favorite cause. Please click on the link below to make a donation.\n\nhttps://example.com/charity-donation\n\nBest regards,\nKevin White\nPhilanthropic Foundation"
+  },
+  {
+    "subject": "Update Your Account Security Now!",
+    "body": "Dear Customer,\n\nTo ensure your account security, please update your password and two-factor authentication settings immediately. Click on the link below to get started.\n\nhttps://example.com/account-security\n\nBest regards,\nDavid Kim\nBank of America"
+  },
+  {
+    "subject": "Your Tax Refund Is Ready for Pickup!",
+    "body": "Dear Customer,\n\nWe are pleased to inform you that your tax refund is ready for pickup at our nearest office location. Please click on the link below to schedule an appointment.\n\nhttps://example.com/tax-refund\n\nBest regards,\nSamantha Lee\nIRS Tax Office"
+  },
+  {
+    "subject": "You Have Been Selected for a Job Opportunity!",
+    "body": "Dear Customer,\n\nWe are pleased to inform you that you have been selected for a job opportunity with our company. Please click on the link below to view your profile and apply.\n\nhttps://example.com/job-opening\n\nBest regards,\nTyler Jackson\nRecruitmentHub"
+  },
+  {
+    "subject": "You Have a New Notification from Social Media!",
+    "body": "Dear Customer,\n\nWe are pleased to inform you that you have received a new notification from social media. Please click on the link below to view your notifications.\n\nhttps://example.com/social-media-notification\n\nBest regards,\nAva Moore\nSocial Media Platform"
+  },
+  {
+    "subject": "COVID-19 Vaccination Update: Get Your Second Dose Today!",
+    "body": "Dear Customer,\n\nWe are pleased to inform you that it's time for your COVID-19 vaccination second dose. Please click on the link below to schedule an appointment.\n\nhttps://example.com/covid-vaccine\n\nBest regards,\nOlivia Brown\nHealthcare Organization"
+  },
+  {
+    "subject": "Law Enforcement Alert: Report Suspicious Activity Now!",
+    "body": "Dear Customer,\n\nWe are pleased to inform you that our organization has partnered with law enforcement to report suspicious activity. Please click on the link below to file a report.\n\nhttps://example.com/law-enforcement\n\nBest regards,\nAlexander Lee\nLaw Enforcement Agency"
+  },
+  {
+    "subject": "War-Related Aid: Donate Today and Make a Difference!",
+    "body": "Dear Customer,\n\nWe are pleased to inform you that our organization is providing war-related aid to those in need. Please click on the link below to make a donation.\n\nhttps://example.com/aid-donation\n\nBest regards,\n Ethan Kim\nHumanitarian Aid"
+  }
+],
+[
+  {
+    "subject": "Your account has been compromised - Urgent Verification Required!",
+    "body": "Dear Customer,\n\nThis is to inform you that our records indicate that your account has been compromised due to suspicious activity. To protect your personal data and prevent any further unauthorized access, we require you to click on the link below to verify your account information.\n\nVerification Link: https://example.com/verify-account\n\nPlease do not ignore this message as it is crucial for maintaining the security of your account.\nBest regards,\nBank of America"
+  },
+  {
+    "subject": "Your financial transaction has been processed - Check your details!",
+    "body": "Dear Customer,\n\nWe have successfully processed your financial transaction, and we would like to confirm that all the details are accurate. Please click on the link below to review your transaction status.\n\nTransaction Details: https://example.com/transaction-details\n\nIf you have any questions or concerns, please do not hesitate to contact us.\nBest regards,\nChase Bank"
+  },
+  {
+    "subject": "You've won a cash prize in our lottery drawing - Claim now!",
+    "body": "Dear Customer,\n\nWe are thrilled to inform you that your name has been selected in our recent lottery drawing, and you have won a significant cash prize! To claim your prize, please click on the link below and follow the instructions.\n\nClaim Your Prize: https://example.com/claim-prize\n\nCongratulations once again, and we look forward to receiving your response.\nBest regards,\nLottteryUSA"
+  },
+  {
+    "subject": "Your invoice has been generated - Pay now to avoid late fees!",
+    "body": "Dear Customer,\n\nWe have generated an invoice for the services you received from our company. Please find the details below and click on the link to pay your outstanding amount immediately.\n\nInvoice Details: https://example.com/invoice-details\n\n Failure to pay may result in late fees, so please act now.\nBest regards,\nACME Inc."
+  },
+  {
+    "subject": "Support a worthy cause - Donate now and claim your reward!",
+    "body": "Dear Customer,\n\nOur organization is involved in a charitable initiative to support underprivileged children. We would like to encourage you to donate what you can spare, and in return, you will receive a reward for your generosity. Please click on the link below to start your donation process.\n\nDonate Now: https://example.com/donate-now\n\nTogether, we can make a difference.\nBest regards,\nCharityForACause"
+  },
+  {
+    "subject": "Your account security update - Update your password now!",
+    "body": "Dear Customer,\n\nAs part of our commitment to keeping your personal data secure, we have conducted an account security audit. We require you to update your password immediately to prevent any potential breaches.\n\nPassword Update: https://example.com/password-update\n\nPlease note that failure to comply may result in temporary account lockout.\nBest regards,\nBank of America"
+  },
+  {
+    "subject": "Tax refund payment - Complete the final steps now!",
+    "body": "Dear Customer,\n\nWe are pleased to inform you that your tax refund has been processed, and we need your cooperation to complete the final payment. Please click on the link below to provide us with your bank account details.\n\nFinal Payment: https://example.com/final-payment\n\nThank you for your prompt attention to this matter.\nBest regards,\nIRS Department"
+  },
+  {
+    "subject": "Job opportunity - Apply now and secure a better future!",
+    "body": "Dear Customer,\n\nWe are excited to announce that our company has an available job position that matches your skills and experience. Please click on the link below to apply for this fantastic opportunity.\n\nApply Now: https://example.com/apply-now\n\nJoin our team today and take the first step towards a brighter career.\nBest regards,\nCareerGenie"
+  },
+  {
+    "subject": "You've received a social media notification - Check it now!",
+    "body": "Dear Customer,\n\nWe have sent you a special notification through our social media platform. Please click on the link below to view your notification and take advantage of exclusive offers.\n\nNotification: https://example.com/social-media-notification\n\nStay connected with us for more exciting updates.\nBest regards,\nFacebook Inc."
+  },
+  {
+    "subject": "COVID-19 vaccination update - Get vaccinated today!",
+    "body": "Dear Customer,\n\nWe would like to remind you that the COVID-19 pandemic is still ongoing, and we highly recommend that you get vaccinated as soon as possible. Please click on the link below to schedule your appointment.\n\nVaccination Appointment: https://example.com/covid-vaccine\n\nProtect yourself and those around you.\nBest regards,\nHealthcare.gov"
+  },
+  {
+    "subject": "Law enforcement alert - Report suspicious activity now!",
+    "body": "Dear Customer,\n\nWe have received reports of suspicious activity in the area, and we urge you to report any information that you may have. Please click on the link below to file your complaint.\n\nReport Suspicious Activity: https://example.com/report-suspicious-activity\n\nHelp us keep our community safe.\nBest regards,\nLawEnforcement"
+  },
+  {
+    "subject": "War-related aid donation - Contribute now and make a difference!",
+    "body": "Dear Customer,\n\nOur organization is involved in providing humanitarian aid to those affected by the war. We would like to encourage you to donate what you can spare, and in return, you will receive a reward for your generosity. Please click on the link below to start your donation process.\n\nDonate Now: https://example.com/donate-now\n\nYour contribution matters.\nBest regards,\nHumanitarianAid"
+  }
+]
