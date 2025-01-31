@@ -1,4 +1,4 @@
-{ "datasets" : [ { "datasets" : [
+{ "datasets" : [
     {
       "subject": "Your account will be suspended if you don't verify your information",
       "body": "Dear Customer,\nWe have detected unusual activity on your account. To prevent any unauthorized access, we require you to verify your information by clicking on the link below.\n\nhttp://example.com/phishing/verify-account\nPlease verify your information as soon as possible.\nBest regards,\nJohn Smith\nBank of America"
@@ -49,53 +49,27 @@
     },
   {
     "subject": "Your Account Will Be Suspended If Not Verified Immediately",
-    "body": "Dear Customer, We have noticed some suspicious activity on your account. To verify your information and keep your account safe, please click on the link below to update your details.http://example.com/verification-32c7d.php
-Best Regards,
-Johnson Lee
-Bank of America"
+    "body": "Dear Customer, We have noticed some suspicious activity on your account. To verify your information and keep your account safe, please click on the link below to update your details.http://example.com/verification-32c7d.php Best Regards, Johnson Lee Bank of America"
   },
   {
     "subject": "Your Financial Transaction Has Been Approved",
-    "body": "Dear Valued Customer, 
-We are pleased to inform you that your financial transaction has been successfully processed. However, we need you to review and confirm the details by clicking on the link below.
-http://example.com/transation-4e56d.pdf
-Thank You, Rachel Brown Wells Fargo Bank"
+    "body": "Dear Valued Customer, We are pleased to inform you that your financial transaction has been successfully processed. However, we need you to review and confirm the details by clicking on the link below. http://example.com/transation-4e56d.pdf Thank You, Rachel Brown Wells Fargo Bank"
   },
   {
     "subject": "You Have Won the Lottery! Claim Your Prize Now",
-    "body": "Dear Lucky Winner, 
-Congratulations! You have won the lottery jackpot. Please click on the link below to claim your prize and collect your winnings.
-http://example.com/lottery-92f41.zip
-Best Wishes,
-Michael White
-The Lottery Commission"
+    "body": "Dear Lucky Winner, Congratulations! You have won the lottery jackpot. Please click on the link below to claim your prize and collect your winnings. http://example.com/lottery-92f41.zip Best Wishes, Michael White The Lottery Commission"
   },
   {
     "subject": "You Have an Outstanding Invoice Pending Payment",
-    "body": "Dear Customer, 
-We noticed that you have an outstanding invoice pending payment. To avoid any further action, please click on the link below to make the payment instantly.
-http://example.com/invoice-11ea8.jpg
-Thank You,
-James Davis
-Account Services Inc."
+    "body": "Dear Customer, We noticed that you have an outstanding invoice pending payment. To avoid any further action, please click on the link below to make the payment instantly. http://example.com/invoice-11ea8.jpg Thank You, James Davis Account Services Inc."
   },
   {
     "subject": "A Charity Donated in Your Name Needs Your Support",
-    "body": "Dear Community Member, 
-A charity that supports a great cause has donated $500 to you in your name. Please click on the link below to learn more about this wonderful organization and make a donation if desired.
-http://example.com,charity-36f90.htm
-Best Regards,
-Kimberly Martin
-Charitable Giving Foundation"
+    "body": "Dear Community Member, A charity that supports a great cause has donated $500 to you in your name. Please click on the link below to learn more about this wonderful organization and make a donation if desired. http://example.com,charity-36f90.html Best Regards, Kimberly Martin Charitable Giving Foundation"
   },
   {
     "subject": "Your Account Security Alert: Update Your Password Now",
-    "body": "Dear Customer, 
-We have detected some suspicious activity on your account. To secure your account, please update your password immediately by clicking on the link below.
-http://example.com/password-4c7b5.zip
-Thank You,
-Christopher Lee
-Security Department"
+    "body": "Dear Customer, We have detected some suspicious activity on your account. To secure your account, please update your password immediately by clicking on the link below. http://example.com/password-4c7b5.zip Thank You, Christopher Lee Security Department"
   },
   {
     "subject": "You Are Eligible for a Tax Refund of $1000",
@@ -21744,4 +21718,4 @@ Security Department"
     "subject": "Your Payment Has Been Declined Due To Insufficient Funds. Click Here To Resolve The Issue.",
     "body": "Dear Customer,\nWe regret to inform you that your payment has been declined due to insufficient funds. To resolve this issue, please click on the link below and provide us with your payment details.\n\nhttp://example.com/pay-transaction.html\n\nThank you for your prompt attention to this matter.\nSincerely,\nJohn Smith\nFinancial Services Representative, Bank of America"}
 ]
-}]}
+}
